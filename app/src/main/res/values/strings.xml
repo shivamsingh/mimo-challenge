@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mimo Challenge</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (min 6 chars)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="click_to_register">New User? Click here to register</string>
+    <string name="menu_sign_out">Logout</string>
+    <string name="validation_email_required">Email is required</string>
+    <string name="validation_password_required">Password is required</string>
+    <string name="validation_invalid_email">Invalid email</string>
+    <string name="validation_invalid_password">Password should be atleast 6 character.</string>
+</resources>
